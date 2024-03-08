@@ -1,0 +1,13 @@
+(change blooks wont work bc blooket patched webpackjsonp but the rest does)
+Example commands:
+set gold: /setstate gold:5000
+set crypto:/setstate crypto:5000
+steal gold:/setval tat playertosteal:5000
+swap gold:/setval tat playertoswap:swap:5000
+pirate steal: /setval tat playertosteal:5000
+change banner: /setval bg bannerNameHere (ex. fire,endRainbow,etc.)
+change blook(make sure it exists or will crash raw set no cb): /setval b Rainbow Astronaut
+cafe action: /setval tat playertoattack:tax
+log all sets(can be used to obtain setval values): /tlog
+/dump lists players and info
+you can also do /help for the other commands
